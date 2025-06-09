@@ -1,6 +1,8 @@
 # XML-In-Web-Design
 Objective: World Spoken Languages and Code Translation First.
 
+Preview: Applying XML could be XHTML, at the client, is about recognizing that everything within a web page can be interpreted, and possibly even the XML and code, for multiple language use. The result is fragments of code page types, undergoing constant re-evolution for best performance.
+
 When developing a website, content presentation and design account for a lot for the ideas presented but site developing is also about markets, which today are open to absolutely everything that is presented on a virtual web page or application.
 
 In short, I've done it all, left, right, top, and bottom, slide in, open, close, drop-in, very wide, very long, over-sized, and yet historically, the newest text scrolls would be long web pages.
