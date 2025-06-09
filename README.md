@@ -27,5 +27,5 @@ UTF-8 is going to have to be studied with Copilot and I'm also going to follow u
 
 About My Hobby or Work
 
-I've been a client-side developer since 1997, just as iframes were first introduced, but now, I'm placing emphasis on integrating World and fact finding within my code and content.\
+I've been a client-side developer since 1997, just as iframes were first introduced, but now, I'm placing emphasis on integrating World and fact finding within my code and content.
 
