@@ -1,25 +1,32 @@
 # XML-In-Web-Design
 Objective: World Spoken Languages and Code Translation First.
 
-Preview: Applying XML could be XHTML, at the client, is about recognizing that everything within a web page can be interpreted, and possibly even the XML and code, for multiple language use. The result is fragments of code page types, undergoing constant re-evolution for best performance.
+Structuring a web page, either at the client or at the server, gets complicated.
 
-When developing a website, content presentation and design account for a lot for the ideas presented but site developing is also about markets, which today are open to absolutely everything that is presented on a virtual web page or application.
+So, before the XML gets complicated, getting that it takes very little code, to initialize a start-up site or client application, opens opportunities for in depth study, with the help of AI, and in my case, Copilot's help.
 
-In short, I've done it all, left, right, top, and bottom, slide in, open, close, drop-in, very wide, very long, over-sized, and yet historically, the newest text scrolls would be long web pages.
+However, as to not get ahead of myself, I'm walking through the code starting with an HTML fragment, which could be overlooked if default settings at the server were about XML, yet there is something in code performance, when code is not launched at the interpreter, all at one time.
 
-Thinking a little further, clay tablets are like a single page, left and right, like the parchment scrolls of Egypt and Isreal, up and down, the paper scrolls read by the kings of England. (Not 100% historical fact, other than the idea to present text, historically was mostly a matter of side-to-side documents whereas text application preferences, based on technology, are an up and down document scrolling adaptation.)
+At this application the HTML page can be referenced but what is significant in its application is "document.location = 'default.xml'" and the application of "<noscript></noscript>" tags, in case scripts are not allowed.
 
-So, scrolling and why it matters, seemingly insignificant, has a history in fact finding and is only one part of the page text. Suggesting again, everything within web page, in markets, is researchable but that is why I'm working with the objective of XML at the client, and the idea of deprecating HTML.
+There is potential with "noscript" tags to allow for a link in HTML directly to an XML page, void of a stylesheet, to allow for an XML page view, but ideas generate work.
 
-And the focus while on scrolling at the moment or XML, well, computers don't care what the numbers are, only that they are consistent with the application, and then we might imagine, even if the focus changes to XML, how powerful the XML might be if it is translated into multiple languages, as in Sumerian, Egyptian, Hebrew, Chinese, Brahmi, and English.
+The default XML page is where it becomes interesting because it is XML, includes an external CSS stylesheet, and because of the XHTML namespace, allows for the application of JavaScript and HTML features within the XML page.
 
-Of course, there are so many more written languages, but I'm working on the diversity of languages because the XML should work. Not so sure about how HTML interpretation would work out. 
+Yet, although the namespace is XHTML, generic tags act as if they are XML and their interpretation is fast. Viewing the "default.xml" page can help with the idea but is also the second fragment of the application. Incidentally, the objective of the application is to produce a multilingual editor, including features which help in writing a book.
 
-Working With UTF-8
+It's not of any great significance at this time to clarify the book application and how it works with code, rather it's more important, for now, to focus on how code is fragmented and further secured.
 
- When asking a tool like Copilot to do some translation, what pops up, are the characters, at times very symbolic compared to English text, yet the text is also written directly at a document. just as writing English.
+Applying XML and in developing the site, links are managed through background scripts, and forms work based on contenteditable = "true". Then we add XML's SVG, for XML applied in design.
 
-Once again, a point in fact finding. It makes sense when a keyboard is transformed for language use, the references to the character type, but without the keyboard transformed, Copilot will go and get the accurate characters, and they become visible just as any other text!
+The above paragraph suggests that with XML, all the pre-written dynamic features of HTML are not a requirement, yet this objective is also to suggest, that everything on a Web page is interpretable and that's where design needs to focus. Even if code is fragmented at the client.
+
+How Complicated Does It Get?
+When dealing with the idea that everything within a web page in interpretable and multilingual features, interpretation can be at text level. In other words, tags and text, CSS colors, fonts, and cursors, can make up what is known in HTML as links and buttons.
+
+Yet, with everything interpretable, we are not going to color and underline every text part, but rather keep working on helping end-users become aware that features are browser supported, or otherwise go deep with interpretation of content ourselves, where XML is about direct text references.
+
+aracters, and they become visible just as any other text!
 
 If you are not use to this, as I am not, the experience was nothing less than shocking!
 
