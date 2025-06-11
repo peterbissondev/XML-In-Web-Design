@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to the XML & JavaScript Application</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100vw;
+            height: 100vh;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #f8f8f8;
+            color: #222;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            text-align: center;
+            max-width: 90vw;
+        }
+        #error-message {
+            color: #c00;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+    <script>
+        // Attempt to fetch the default XML, fallback to x-default.xml, or show an error
+        document.addEventListener("DOMContentLoaded", function() {
+            fetch('default.xml')
+                .then(response => {
+                    if (response.ok) {
+                        window.location = 'default.xml';
+                    } else {
+                        throw new Error('default.xml not found');
+                    }
+                })
+                .catch(() => {
+                    // Try the fallback
+                    fetch('x-default.xml')
+                        .then(response => {
+                            if (response.ok) {
+                                window.location = 'x-default.xml';
+                            } else {
+                                throw new Error('x-default.xml not found');
+                            }
+                        })
+                        .catch(() => {
+                            // Show error message in the container
+                            document.getElementById('error-message').textContent =
+                                "Neither the default XML nor the fallback could be loaded. Please check your files or server.";
+                        });
+                });
+        });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome!</h1>
+        <p>
+            This site defaults to <strong>XML</strong> and is powered by a JavaScript application.<br>
+            If you are not redirected, please check your browser settings.<br>
+            <em>No script tags are used in the body for security and clarity.</em>
+        </p>
+        <div id="error-message"></div>
+    </div>
+</body>
+</html>
