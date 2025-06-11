@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<root xmlns="http://www.w3.org/1999/xhtml">
+    <script src="scripts.js"/>
+    <heading>Welcome to Default XML Page</heading>
+    <content>
+        This is the content area. Add your information here.
+    </content>
+</root>
