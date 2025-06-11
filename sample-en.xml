@@ -1,0 +1,12 @@
+<!-- 
+    This XML is GitHub Copilot Assisted code.
+    Learn more about Copilot at https://github.com/features/copilot 
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<note type="reminder">
+    <to>World</to>
+    <from>Copilot</from>
+    <heading importance="high">Meeting Reminder</heading>
+    <body>Don't forget our meeting at 10am & bring your notes!</body>
+</note>
