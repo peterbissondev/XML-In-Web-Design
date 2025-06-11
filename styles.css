@@ -1,0 +1,29 @@
+root {
+    display: block;
+    background: #f9f9f9;
+    font-family: Arial, sans-serif;
+    padding: 2em;
+    margin: 0 auto;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
+
+heading {
+    display: block;
+    font-size: 2em;
+    color: #2266aa;
+    margin-bottom: 1em;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+content {
+    display: block;
+    font-size: 1.1em;
+    color: #333;
+    line-height: 1.7;
+    text-align: left;
+    padding: 1em 0;
+}
