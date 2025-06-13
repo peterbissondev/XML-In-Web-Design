@@ -7,8 +7,10 @@ Also, with Multi-Language Code and Text, to take into consideration, that market
 
 There is more idea and theory, at the momoent, in looking at World, could be response, given a language, should we expect the world to adapt to up and down verses side to side scrolling?
 
-The selected languages is about their visual implementation because in design. does the context of design change depending on the language. The study of translation for tag and text meaning, both have to re-evaluated again and again, to integrate better translation in code and text. "p" or "paragraph" to define an XML tag, but what do they mean even if translated to another language? These are language semantics which have to be studied to make the application work.
+The selected languages is about their visual implementation because in design. does the context of design change depending on the language?
+
+The study of translation for tag and text meaning, both have to be re-evaluated again and again, to integrate better translation in code and text. For example, we could apply "p" or "paragraph" in the English language to define an XML tag, but what do they mean even if translated to another language? These are language semantics which have to be studied to make the application work.
 
 My finding to date includes code fragmentation is high for a simplified application but looking at increased security features, as well.
 
-We may be in the times where moving forward to real world or true technology fact finding development. No more, suggestive thinking verses actions.
+We may be in the times where moving forward to real world and true technology fact finding development. No more, suggestive thinking verses actions.
