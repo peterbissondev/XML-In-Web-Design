@@ -15,4 +15,4 @@ My finding to date includes code fragmentation is high for a simplified applicat
 
 We may be in the times where moving forward to real world and true technology fact finding development. No more, suggestive thinking verses actions.
 
-I should mention, for fact finding in multi-language and code, I'm looking towards Microsoft's Copilot, and at how or possilbly XML tags which denote, that this is Copilot;s assisted code or text. There is an evolution taking place on that behalf, just as with multiple languages editing. I started recently with AI, and the idea is extending very quickly to AI-assisted tag, and similar actions to be taken with continued AI verified code and text.
+I should mention, for fact finding in multi-language and code, I'm looking towards Microsoft's Copilot, and at how or possilbly XML tags which denote, that this is Copilot's assisted code or text. There is an evolution taking place on that behalf, just as with multiple languages editing. I started recently with AI, and the idea is extending very quickly to AI-assisted tag, and similar actions to be taken with continued AI verified code and text.
