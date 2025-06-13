@@ -1,9 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="styles.css"?>
-<root xmlns="http://www.w3.org/1999/xhtml">
-    <script src="scripts.js"/>
-    <heading>Welcome to Default XML Page</heading>
-    <content>
-        This is the content area. Add your information here.
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="styles.css" ?>
+<root xmlns:vp="http://www.w3.org/1999/xhtml">
+<vp:link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300" rel="stylesheet" />
+<vp:link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400" rel="stylesheet" />
+<vp:script type="text/JavaScript" src="scripts.js" />
+<webpage xmlns="http://www.w3.org/1999/xhtml">
+    <heading>
+        <subheading>
+        <preview>
+            <site>midscripts.com</site>
+            <spacer>:</spacer>
+            <change>On This Page</change>
+            <spacer>:</spacer>
+            <topic>XML, CSS, &amp; JavaScript</topic>
+            <spacer>/</spacer>
+            <subtopic>Why?</subtopic>
+            <spacer>, </spacer>
+            <subtopic>Getting Started</subtopic>
+            <spacer>:</spacer>
+        </preview>
+        <authordev>Peter Bisson (Site Author/Dev)</authordev>
+        </subheading>
+        <dropmenu class="off"></dropmenu>
+    </heading>
+    <content contenteditable="true">
     </content>
+</webpage>
 </root>
