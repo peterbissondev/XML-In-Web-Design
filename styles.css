@@ -1,3 +1,5 @@
+
+/*
 root {
     display: block;
     background: #f9f9f9;
@@ -26,4 +28,160 @@ content {
     line-height: 1.7;
     text-align: left;
     padding: 1em 0;
+}
+
+*/
+
+* {
+    display:block;
+    left:0px;
+    top:0px;
+}
+
+webpage {
+    max-width:1500px;
+    min-height:1000px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+
+heading {
+    position:fixed;
+    width:100%;
+    min-height:160px;
+    background-color: white;
+    z-index:100;
+    overflow:visible;
+}
+
+subheading {
+    width:60%;
+    margin:auto;
+    text-align: center;
+    
+}
+
+
+topics {
+    font-size:32px;
+    font-weight: 400;
+    margin:30px 20px 10px;
+}
+
+
+authordev {
+    font-size:14px;
+    font-weight: 300;
+    margin:10px 20px 40px 20px;
+    
+}
+
+change {
+    cursor:pointer;
+}
+
+
+.off {
+       visibility: hidden;
+       
+}
+
+.on {
+    visibility: visible;
+    width:60%;
+    margin:auto;
+    height:400px;
+    background-color:inherit;
+    border:1px dotted #333;
+    z-index:inherit;
+    overflow-y:scroll;
+}
+
+content {
+    padding-top:180px;
+    width:70%;
+    margin:auto;
+    z-index:50;
+}
+
+
+
+topic {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    margin:40px 20px 10px 20px;   
+}
+
+subtopic {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size:22px;
+    font-style: normal;
+    font-weight: 400;
+    margin:40px 20px 10px 80px;   
+}
+
+sub-subtopic { 
+  font-size:20px;
+  font-weight:300;
+  margin:20px 20px 20px 80px;
+}
+
+paragraph {
+    font-size: 16px;
+    font-weight:normal;
+    margin:20px 20px 20px 80px;
+}
+
+preview {
+    padding-top:30px;
+}
+
+preview * {
+    display:inline;
+    margin:0px;
+}
+
+site {
+    height:30px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+change {
+    height:30px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+[contenteditable] {
+    outline:0px solid transparent;
+}
+
+@media (max-width: 800px) {
+
+    h {
+        margin: 0px 30px;
+    }
+
+    heading, leftSidebar, content, rightSidebar {
+        display: block;
+        position: relative;
+        top:40px;
+        width: 96%;
+        min-height: 300px;
+        padding: 2%;
+        border: 1px dashed #808080;
+        z-index: 10;
+    }
+
+    heading {
+        min-height:40px;
+    }
 }
