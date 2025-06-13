@@ -1,28 +1,14 @@
 # XML-In-Web-Design
-Objective: World Spoken Languages and Code Translation First.
+Objective: XML Application in Multi-Language Code and Text Client-Side Editor.
 
-Structuring a web page, either at the client or at the server, gets complicated.
+Developing a client-side application in XML, CSS, and JavaScript, based on xhtml namespace where required, so that the main Web page acts as it would with HTML features yet without predefined elements or tag properties.
 
-So, before the XML gets complicated, getting that it takes very little code, to initialize a start-up site or client application, opens opportunities for in depth study, with the help of AI, and in my case, Copilot's help.
+Also, with Multi-Language Code and Text, to take into consideration, that markets are increasingly applying all context of content is researchable. So as people write or edit in muliti-language, could consider a drop down box following the text for imediate several language writing selection. Could help in word learning.
 
-However, as to not get ahead of myself, I'm walking through the code starting with an HTML fragment, which could be overlooked if default settings at the server were about XML, yet there is something in code performance, when code is not launched at the interpreter, all at one time.
+There is more idea and theory, at the momoent, in looking at World, could be response, given a language, should we expect the world to adapt to up and down verses side to side scrolling?
 
-At this application the HTML page can be referenced but what is significant in its application is "document.location = 'default.xml'" and the application of "<noscript></noscript>" tags, in case scripts are not allowed.
+The selected languages is about their visual implementation because in design. does the context of design change depending on the language. The study of translation for tag and text meaning, both have to re-evaluated again and again, to integrate better translation in code and text. "p" or "paragraph" to define an XML tag, but what do they mean even if translated to another language? These are language semantics which have to be studied to make the application work.
 
-There is potential with "noscript" tags to allow for a link in HTML directly to an XML page, void of a stylesheet, to allow for an XML page view, but ideas generate work.
+My finding to date includes code fragmentation is high for a simplified application but looking at increased security features, as well.
 
-The default XML page is where it becomes interesting because it is XML, includes an external CSS stylesheet, and because of the XHTML namespace, allows for the application of JavaScript and HTML features within the XML page.
-
-Yet, although the namespace is XHTML, generic tags act as if they are XML and their interpretation is fast. Viewing the "default.xml" page can help with the idea but is also the second fragment of the application. Incidentally, the objective of the application is to produce a multilingual editor, including features which help in writing a book.
-
-It's not of any great significance at this time to clarify the book application and how it works with code, rather it's more important, for now, to focus on how code is fragmented and further secured.
-
-Applying XML and in developing the site, links are managed through background scripts, and forms work based on contenteditable = "true". Then we add XML's SVG, for XML applied in design.
-
-The above paragraph suggests that with XML, all the pre-written dynamic features of HTML are not a requirement, yet this objective is also to suggest, that everything on a Web page is interpretable and that's where design needs to focus. Even if code is fragmented at the client.
-
-How Complicated Does It Get?
-When dealing with the idea that everything within a web page in interpretable and multilingual features, interpretation can be at text level. In other words, tags and text, CSS colors, fonts, and cursors, can make up what is known in HTML as links and buttons.
-
-Yet, with everything interpretable, we are not going to color and underline every text part, but rather keep working on helping end-users become aware that features are browser supported, or otherwise go deep with interpretation of content ourselves, where XML is about direct text references.
-
+We may be in the times where moving forward to real world or true technology fact finding development. No more, suggestive thinking verses actions.
